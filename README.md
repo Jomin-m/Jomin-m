@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jomin Mathew</h1>
-<h3 align="center">Strategic data engineer with extensive experience and hands-on expertise in building pipe-lines, bridging data and actions to make improvements across platforms;</h3>
+<h4 align="center">Strategic data engineer with extensive experience and hands-on expertise in building pipe-lines, bridging data and actions to make improvements across platforms;</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomin-m&label=Profile%20views&color=0e75b6&style=flat" alt="jomin-m" /> </p>
 
