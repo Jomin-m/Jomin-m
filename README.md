@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Face_tracking_responder_chat](https://github.com/Jomin-m/Video_cam_access_code)
 
-- 🌱 I’m currently learning **Large Language Models, Frontend Tools**
+- 🌱 I’m currently learning **Generative AI/Large Language Models and Frontend Development(React/Django)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jomin-m?tab=repositories](https://github.com/Jomin-m?tab=repositories)
 
