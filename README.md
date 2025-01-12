@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Multi-agent Student Learning Environment]([https://github.com/Jomin-m/Multi-Agent_Learning_Environment/tree/main])
 
-- 🌱 I’m currently learning **CUDA Optimization**
+- 🌱 I’m AWS and GCP Certified
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jomin-m?tab=repositories](https://github.com/Jomin-m?tab=repositories)
 
